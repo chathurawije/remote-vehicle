@@ -1,0 +1,57 @@
+2020-02-06 18:30:17 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:30:28 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:32:28 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:32:36 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:39:49 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)

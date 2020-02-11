@@ -1,0 +1,391 @@
+2020-01-26 02:17:35 INFO  App:19 - App Started... 
+2020-01-26 02:17:35 INFO  CLIController:15 - Remote Vehicle CLI started
+2020-01-26 02:17:57 INFO  PingCommandExecuter:28 - output : 1,1,SOUTH
+2020-01-26 02:17:57 FATAL CLIController:27 - output : 1,1,SOUTH
+2020-01-26 02:17:57 INFO  CLIController:28 - output : 1,1,SOUTH
+2020-01-26 02:18:14 INFO  PingCommandExecuter:28 - output : 1,0,SOUTH
+2020-01-26 02:18:14 FATAL CLIController:27 - output : 1,0,SOUTH
+2020-01-26 02:18:14 INFO  CLIController:28 - output : 1,0,SOUTH
+2020-01-26 02:18:19 ERROR ForwardCommandExecutor:56 - invalid position ( x: 1 y:-1)
+2020-01-26 02:19:41 INFO  App:19 - App Started... 
+2020-01-26 02:19:41 INFO  CLIController:15 - Remote Vehicle CLI started
+2020-01-26 02:19:44 ERROR CLIController:31 - Invalid command
+2020-01-26 02:19:57 INFO  PingCommandExecuter:28 - output : 1,1,SOUTH
+2020-01-26 02:19:57 FATAL CLIController:27 - output : 1,1,SOUTH
+2020-01-26 02:19:57 INFO  CLIController:28 - output : 1,1,SOUTH
+2020-01-26 02:20:16 ERROR ForwardCommandExecutor:56 - invalid position ( x: 1 y:-1)
+2020-01-26 04:09:41 INFO  App:19 - App Started... 
+2020-01-26 04:09:41 INFO  CommandExecutorManager:30 - CommandExecutorManager created
+2020-01-26 04:09:41 INFO  CLIController:15 - Remote Vehicle CLI started
+2020-01-26 04:09:41 FATAL CLIController:17 - Remote Vehicle CLI
+2020-01-26 11:22:44 INFO  App:19 - App Started... 
+2020-01-26 11:22:44 INFO  CommandExecutorManager:30 - CommandExecutorManager created
+2020-01-26 11:22:44 INFO  CLIController:16 - Remote Vehicle CLI started
+2020-01-26 11:22:44 FATAL CLIController:18 - Remote Vehicle CLI
+2020-01-26 11:22:49 INFO  PingCommandExecuter:22 - Inside PingCommandExecuter
+2020-01-26 11:22:49 ERROR PingCommandExecuter:34 - No vehicle found
+2020-01-26 11:23:06 INFO  PlaceCommandExecutor:22 - Inside PlaceCommandExecutor
+2020-01-26 11:23:13 INFO  PingCommandExecuter:22 - Inside PingCommandExecuter
+2020-01-26 11:23:13 INFO  PingCommandExecuter:31 - output : 1,1,WEST
+2020-01-26 11:23:13 FATAL CLIController:28 - output : 1,1,WEST
+2020-01-26 11:23:13 INFO  CLIController:29 - output : 1,1,WEST
+2020-01-26 11:23:21 INFO  ForwardCommandExecutor:22 - Inside ForwardCommandExecutor
+2020-01-26 11:23:29 INFO  ForwardCommandExecutor:22 - Inside ForwardCommandExecutor
+2020-01-26 11:23:29 ERROR ForwardCommandExecutor:59 - invalid position ( x: -1 y:1)
+2020-01-26 11:23:48 INFO  App:19 - App Started... 
+2020-01-26 11:23:48 INFO  CommandExecutorManager:30 - CommandExecutorManager created
+2020-01-26 11:23:48 INFO  CLIController:16 - Remote Vehicle CLI started
+2020-01-26 11:23:48 FATAL CLIController:18 - Remote Vehicle CLI
+2020-01-26 11:24:41 INFO  PingCommandExecuter:22 - Inside PingCommandExecuter
+2020-01-26 11:24:41 ERROR PingCommandExecuter:34 - No vehicle found
+2020-01-26 11:25:04 INFO  PlaceCommandExecutor:22 - Inside PlaceCommandExecutor
+2020-01-26 11:25:10 INFO  PingCommandExecuter:22 - Inside PingCommandExecuter
+2020-01-26 11:25:10 INFO  PingCommandExecuter:31 - output : 1,1,NORTH
+2020-01-26 11:25:10 FATAL CLIController:28 - output : 1,1,NORTH
+2020-01-26 11:25:10 INFO  CLIController:29 - output : 1,1,NORTH
+2020-01-26 11:25:22 INFO  TurnLeftCommandExecutor:24 - Inside TurnLeftCommandExecutor
+2020-01-26 11:25:26 INFO  PingCommandExecuter:22 - Inside PingCommandExecuter
+2020-01-26 11:25:26 INFO  PingCommandExecuter:31 - output : 1,1,WEST
+2020-01-26 11:25:26 FATAL CLIController:28 - output : 1,1,WEST
+2020-01-26 11:25:26 INFO  CLIController:29 - output : 1,1,WEST
+2020-01-26 11:25:40 INFO  ForwardCommandExecutor:22 - Inside ForwardCommandExecutor
+2020-01-26 11:25:46 INFO  ForwardCommandExecutor:22 - Inside ForwardCommandExecutor
+2020-01-26 11:25:46 ERROR ForwardCommandExecutor:59 - invalid position ( x: -1 y:1)
+2020-01-27 00:20:48 INFO  App:32 - App Started... 
+2020-01-27 00:20:48 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 00:20:48 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 00:21:01 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-01-27 00:22:01 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 00:22:01 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 00:22:01 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 00:22:13 INFO  App:32 - App Started... 
+2020-01-27 01:15:25 INFO  App:32 - App Started... 
+2020-01-27 08:33:33 INFO  App:32 - App Started... 
+2020-01-27 08:33:33 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 08:33:33 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 08:33:56 INFO  App:32 - App Started... 
+2020-01-27 08:33:56 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 08:33:56 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 08:46:40 INFO  App:32 - App Started... 
+2020-01-27 08:46:40 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 08:46:40 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 08:57:14 INFO  App:35 - App Started... 
+2020-01-27 08:57:27 INFO  App:35 - App Started... 
+2020-01-27 08:57:27 FATAL App:49 - Invalid Grid type :Grid type not found :PLAE
+2020-01-27 09:00:29 INFO  App:35 - App Started... 
+2020-01-27 09:00:29 FATAL App:49 - Invalid Grid type :Grid type not found :PLAE
+2020-01-27 09:00:40 INFO  App:35 - App Started... 
+2020-01-27 09:00:40 FATAL App:49 - Invalid Grid type :Grid type not found :PLAE
+2020-01-27 09:05:11 INFO  App:35 - App Started... 
+2020-01-27 09:05:11 FATAL App:49 - Invalid Grid type :Grid type not found :PLAE
+2020-01-27 09:08:28 INFO  App:35 - App Started... 
+2020-01-27 09:08:28 FATAL App:49 - Invalid Grid type :remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+2020-01-27 09:22:45 INFO  App:35 - App Started... 
+2020-01-27 09:22:45 FATAL App:49 - Invalid Grid type :
+remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+	at remotevehicle.grid.GridManagerFactory.getGridManager(GridManagerFactory.java:21)
+	at remotevehicle.app.App.startApp(App.java:43)
+	at remotevehicle.app.App.main(App.java:28)
+2020-01-27 09:45:09 INFO  App:36 - App Started... 
+2020-01-27 09:45:09 FATAL App:50 - Invalid Grid type :
+remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+	at remotevehicle.grid.GridManagerFactory.getGridManager(GridManagerFactory.java:21)
+	at remotevehicle.app.App.startApp(App.java:44)
+	at remotevehicle.app.App.main(App.java:29)
+2020-01-27 09:46:03 INFO  App:36 - App Started... 
+2020-01-27 09:46:03 FATAL App:50 - Invalid Grid type :
+remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+	at remotevehicle.grid.GridManagerFactory.getGridManager(GridManagerFactory.java:21)
+	at remotevehicle.app.App.startApp(App.java:44)
+	at remotevehicle.app.App.main(App.java:29)
+2020-01-27 09:46:32 INFO  App:36 - App Started... 
+2020-01-27 09:46:32 FATAL App:50 - Invalid Grid type :
+remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+	at remotevehicle.grid.GridManagerFactory.getGridManager(GridManagerFactory.java:21)
+	at remotevehicle.app.App.startApp(App.java:44)
+	at remotevehicle.app.App.main(App.java:29)
+2020-01-27 09:48:06 INFO  App:36 - App Started... 
+2020-01-27 09:48:06 FATAL App:50 - Invalid Grid type :
+remotevehicle.exception.GridTypeNotFoundExeption: Grid type not found :PLAE
+	at remotevehicle.grid.GridManagerFactory.getGridManager(GridManagerFactory.java:21)
+	at remotevehicle.app.App.startApp(App.java:44)
+	at remotevehicle.app.App.main(App.java:29)
+2020-01-27 10:33:55 INFO  App:38 - App Started... 
+2020-01-27 10:33:55 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 10:33:55 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 10:34:08 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :START1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:67)
+	at remotevehicle.app.App.main(App.java:31)
+2020-01-27 10:34:11 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 10:34:11 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:67)
+	at remotevehicle.app.App.main(App.java:31)
+2020-01-27 10:34:32 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-01-27 10:34:38 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 10:34:38 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 10:34:38 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 11:16:46 INFO  App:39 - App Started... 
+2020-01-27 11:16:46 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 11:16:46 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 11:17:04 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-01-27 11:17:07 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 11:17:07 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 11:17:07 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 12:26:34 INFO  App:39 - App Started... 
+2020-01-27 12:26:34 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 12:26:34 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 12:26:45 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-01-27 12:26:52 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:26:52 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 12:26:52 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 12:27:02 INFO  TurnLeftCommandExecutor:41 - Inside TurnLeftCommandExecutor
+2020-01-27 12:27:06 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:27:06 INFO  PingCommandExecuter:48 - output : 1,1,EAST
+2020-01-27 12:27:06 INFO  CLIController:45 - output : 1,1,EAST
+2020-01-27 12:27:20 INFO  TurnLeftCommandExecutor:41 - Inside TurnLeftCommandExecutor
+2020-01-27 12:27:24 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:27:24 INFO  PingCommandExecuter:48 - output : 1,1,NORTH
+2020-01-27 12:27:24 INFO  CLIController:45 - output : 1,1,NORTH
+2020-01-27 12:27:36 INFO  TurnLeftCommandExecutor:41 - Inside TurnLeftCommandExecutor
+2020-01-27 12:27:38 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:27:38 INFO  PingCommandExecuter:48 - output : 1,1,WEST
+2020-01-27 12:27:38 INFO  CLIController:45 - output : 1,1,WEST
+2020-01-27 12:28:22 INFO  TurnLeftCommandExecutor:41 - Inside TurnLeftCommandExecutor
+2020-01-27 12:28:27 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:28:27 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 12:28:27 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 12:28:38 INFO  TurnRightCommandExecutor:39 - Inside TurnRightCommandExecutor
+2020-01-27 12:28:45 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:28:45 INFO  PingCommandExecuter:48 - output : 1,1,WEST
+2020-01-27 12:28:45 INFO  CLIController:45 - output : 1,1,WEST
+2020-01-27 12:28:51 INFO  TurnRightCommandExecutor:39 - Inside TurnRightCommandExecutor
+2020-01-27 12:28:53 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:28:53 INFO  PingCommandExecuter:48 - output : 1,1,NORTH
+2020-01-27 12:28:53 INFO  CLIController:45 - output : 1,1,NORTH
+2020-01-27 12:28:58 INFO  TurnRightCommandExecutor:39 - Inside TurnRightCommandExecutor
+2020-01-27 12:29:01 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:29:01 INFO  PingCommandExecuter:48 - output : 1,1,EAST
+2020-01-27 12:29:01 INFO  CLIController:45 - output : 1,1,EAST
+2020-01-27 12:29:12 INFO  TurnRightCommandExecutor:39 - Inside TurnRightCommandExecutor
+2020-01-27 12:29:15 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 12:29:15 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 12:29:15 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 16:57:33 INFO  App:39 - App Started... 
+2020-01-27 16:57:33 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 16:57:33 INFO  CLIController:30 - Remote Vehicle CLI started
+
+2020-01-27 16:57:49 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 16:57:49 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-01-27 16:58:02 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-01-27 16:58:07 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 16:58:07 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-01-27 16:58:07 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-01-27 16:58:40 INFO  App:39 - App Started... 
+2020-01-27 16:58:40 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-01-27 16:58:40 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-01-27 16:58:43 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-01-27 16:58:43 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:23:21 INFO  App:39 - App Started... 
+2020-02-06 18:23:21 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:23:21 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:23:53 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:24:05 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 18:24:05 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:26:05 INFO  App:39 - App Started... 
+2020-02-06 18:26:05 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:26:05 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:26:25 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:26:29 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 18:26:29 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:27:39 INFO  App:39 - App Started... 
+2020-02-06 18:29:48 INFO  App:39 - App Started... 
+2020-02-06 18:29:48 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:29:48 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:30:17 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:30:28 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 18:30:28 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:32:04 INFO  App:39 - App Started... 
+2020-02-06 18:32:04 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:32:04 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:32:28 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:32:36 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 18:32:36 ERROR PingCommandExecuter:51 - No vehicle found
+remotevehicle.exception.NoVehicleFoundException: No vehicle found on the grid
+	at remotevehicle.grid.PositivePlaneEmptyGridManager.getVehicle(PositivePlaneEmptyGridManager.java:28)
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:42)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:33:42 INFO  App:39 - App Started... 
+2020-02-06 18:39:29 INFO  App:39 - App Started... 
+2020-02-06 18:39:29 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:39:29 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:39:49 ERROR CLIController:48 - Invalid command :
+remotevehicle.exception.InvalidCommandException: Invalid command :PLACE 1,1,SOUTH
+	at remotevehicle.executer.PingCommandExecuter.executeCommand(PingCommandExecuter.java:55)
+	at remotevehicle.executer.TurnRightCommandExecutor.executeCommand(TurnRightCommandExecutor.java:74)
+	at remotevehicle.executer.TurnLeftCommandExecutor.executeCommand(TurnLeftCommandExecutor.java:77)
+	at remotevehicle.executer.ForwardCommandExecutor.executeCommand(ForwardCommandExecutor.java:84)
+	at remotevehicle.executer.PlaceCommandExecutor.executeCommand(PlaceCommandExecutor.java:60)
+	at remotevehicle.executer.CommandExecutorManager.executeCommand(CommandExecutorManager.java:53)
+	at remotevehicle.controller.CLIController.startProgram(CLIController.java:40)
+	at remotevehicle.app.App.startApp(App.java:73)
+	at remotevehicle.app.App.main(App.java:32)
+2020-02-06 18:54:33 INFO  App:39 - App Started... 
+2020-02-06 18:54:33 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:54:33 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 18:55:18 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-02-06 18:55:27 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 18:55:27 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-02-06 18:55:27 INFO  CLIController:45 - output : 1,1,SOUTH
+2020-02-06 18:58:09 INFO  App:39 - App Started... 
+2020-02-06 18:58:09 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 18:58:09 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 19:04:55 INFO  App:39 - App Started... 
+2020-02-06 19:04:55 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 19:04:55 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 19:05:24 INFO  App:39 - App Started... 
+2020-02-06 19:05:24 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 19:05:24 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:08:26 INFO  App:39 - App Started... 
+2020-02-06 21:08:26 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:08:26 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:10:37 INFO  App:39 - App Started... 
+2020-02-06 21:10:37 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:10:37 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:11:45 INFO  App:39 - App Started... 
+2020-02-06 21:11:45 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:11:45 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:13:28 INFO  App:39 - App Started... 
+2020-02-06 21:13:28 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:13:28 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:14:11 INFO  App:39 - App Started... 
+2020-02-06 21:14:11 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:14:11 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:15:37 INFO  App:39 - App Started... 
+2020-02-06 21:15:37 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:15:37 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:58:04 INFO  App:39 - App Started... 
+2020-02-06 21:58:04 INFO  CommandExecutorManager:41 - CommandExecutorManager created
+2020-02-06 21:58:04 INFO  CLIController:30 - Remote Vehicle CLI started
+2020-02-06 21:58:22 INFO  PlaceCommandExecutor:41 - Inside PlaceCommandExecutor
+2020-02-06 21:58:25 INFO  PingCommandExecuter:39 - Inside PingCommandExecuter
+2020-02-06 21:58:25 INFO  PingCommandExecuter:48 - output : 1,1,SOUTH
+2020-02-06 21:58:25 INFO  CLIController:45 - output : 1,1,SOUTH
